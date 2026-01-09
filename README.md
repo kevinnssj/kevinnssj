@@ -15,7 +15,7 @@ Trabajo también en **desarrollo web moderno** y **bots de Discord**, enfocados 
 
 - 💻 Desarrollo de scripts y sistemas para FiveM  
 - 🌐 Desarrollo de websites (frontend y backend)  
-- 🤖 Bots de Discord con Node.js  
+- 🤖 Bots de Discord con Node.js & Python 
 - ⚙️ Código limpio, optimizado y mantenible  
 
 ---
