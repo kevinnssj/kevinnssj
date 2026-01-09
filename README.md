@@ -10,7 +10,7 @@ FiveM • Desarrollo Web • Bots de Discord
 
 ## 🚀 Sobre mí
 
-Soy **Desarrollador de FiveM** con experiencia en la creación de sistemas personalizados, optimizados y escalables.  
+**Desarrollador de FiveM** con experiencia en la creación de sistemas personalizados, optimizados y escalables.  
 Trabajo también en **desarrollo web moderno** y **bots de Discord**, enfocados en automatización, moderación y gestión de comunidades.
 
 - 💻 Desarrollo de scripts y sistemas para FiveM  
@@ -28,14 +28,14 @@ Trabajo también en **desarrollo web moderno** y **bots de Discord**, enfocados 
 </p>
 
 - Moderador en **Data Cloud Services**
-- Hosting especializado en servidores de juegos y servicios cloud  
+- Hosting profesional, diseñado para proyectos de alto nivel, FiveM, Bots de discord, Minecraft, Websites. 
 - 🌐 Web: <a href="https://portal.dcs.codes">portal.dcs.codes</a>
 
 ---
 
 ### 👑 Dueño — **Low PvP**
 <p>
-  <img src="https://img.shields.io/badge/FiveM-Low%20PvP-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FiveM-Low%20PvP-FF0000?style=for-the-badge" />
 </p>
 
 - Dueño de **Low PvP**
@@ -89,11 +89,11 @@ Trabajo también en **desarrollo web moderno** y **bots de Discord**, enfocados 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinssj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinnssj&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinssj&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnssj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -106,5 +106,5 @@ Trabajo también en **desarrollo web moderno** y **bots de Discord**, enfocados 
 ---
 
 <p align="center">
-⭐ Siempre aprendiendo, mejorando y creando sistemas de calidad para FiveM
+⭐ Siempre aprendiendo, mejorando y creando sistemas de calidad optimizados y rendimiento garantizado
 </p>
