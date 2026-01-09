@@ -46,7 +46,7 @@ Trabajo también en **desarrollo web moderno** y **bots de Discord**, enfocados 
 
 ### 🧠 Fundador — **FiveM ARG | Community & Shop**
 <p>
-  <img src="https://img.shields.io/badge/Community-FiveM%20ARG-9146FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Community-FiveM%20ARG-27B4F5?style=for-the-badge" />
 </p>
 
 - Comunidad dedicada a **FiveM**
