@@ -101,7 +101,7 @@ Trabajo también en **desarrollo web moderno** y **bots de Discord**, enfocados 
 ## 📫 Contacto
 
 - 💬 Discord: **kevinssj**
-- 🌐 GitHub: https://github.com/kevinssj
+- 🌐 GitHub: https://github.com/kevinnssj
 
 ---
 
