@@ -57,6 +57,9 @@ Trabajo también en **desarrollo web moderno** y **bots de Discord**, enfocados 
 ---
 
 ### 🔥 Fundador — **La Chispa RP** *(actualmente cerrado)*
+<p>
+  <img src="https://img.shields.io/badge/FiveM-LA CHISPA%20RP-FAE241?style=for-the-badge" />
+</p>
 
 - Proyecto de roleplay en FiveM  
 - 📜 Numero 1 en optimizacion, llegando a tener 29 resources en lista.  
