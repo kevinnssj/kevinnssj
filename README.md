@@ -1,6 +1,6 @@
 <!-- profile -->
 
-<h1 align="center">👋 Hola, soy Desarrollador de FiveM</h1>
+<h1 align="center">👋 Hola</h1>
 
 <p align="center">
 FiveM • Desarrollo Web • Bots de Discord
