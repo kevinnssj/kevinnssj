@@ -10,7 +10,7 @@ FiveM • Desarrollo Web • Bots de Discord
 
 ## 🚀 Sobre mí
 
-**Desarrollador de FiveM** con experiencia en la creación de sistemas personalizados, optimizados y escalables.  
+**Desarrollador de FiveM especializado en ESX** con experiencia en la creación de sistemas personalizados, optimizados y escalables.  
 Trabajo también en **desarrollo web moderno** y **bots de Discord**, enfocados en automatización, moderación y gestión de comunidades.
 
 - 💻 Desarrollo de scripts y sistemas para FiveM  
